@@ -138,7 +138,7 @@ And finally, we will push it!
 
 `git remote add origin [remote repository url]`
 
-`git remote push -u origin master`
+`git push -u origin master`
 
 
 ### Edit the code
